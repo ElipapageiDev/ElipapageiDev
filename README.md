@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/avatars/828261128651669516/03aa63468d9d049eb90986e9e18993f9.png?size=1024"  />
+
 
 ###
 
