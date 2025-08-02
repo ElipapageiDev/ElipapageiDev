@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Elipapagei and I'm a game hacking developer from germany</h2>
+<h2 align="left">Hi 👋ok.</h2>
 
 ###
 
